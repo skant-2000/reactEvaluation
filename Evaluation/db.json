@@ -1,0 +1,20 @@
+{
+  "jsonData": [
+    {
+      "id": 1,
+      "title": "Watch",
+      "cost": 1,
+      "image": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/sense/hero-static/sage-grey/sense-sage-gray-device-3qt.png",
+      "category": "Accessories"
+    },
+    {
+      "id": 2,
+      "title": "Watch",
+      "cost": 2,
+      "image": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/sense/hero-static/sage-grey/sense-sage-gray-device-3qt.png",
+      "category": "Accessories"
+    },
+    [],
+    []
+  ]
+}
